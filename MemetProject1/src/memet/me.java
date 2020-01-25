@@ -9,20 +9,17 @@ public class me {
 	}
 
 	public static void test11() {
-		System.out.print("this is memet");
-		System.out.print("this is memet");
-	
-
-	System.out.print("this is memet");
-	System.out.print("this is memet");
 
 	}
 
-	public static void test21() {
+	public static void test1() {
+
 		System.out.print("this is memet");
 		System.out.print("this is memet");
-	System.out.print("this is memet");
-	System.out.println("I am Wrong" );
-}
+
+		System.out.print("this is memet");
+		System.out.print("this is memet");
+
+	}
 
 }
