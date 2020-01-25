@@ -1,25 +1,14 @@
 package memet;
 
 public class me {
-
+	
+	
 	public static void main(String[] args) {
+		System.out.println("My name is memet. I am working from Maryland.");
 
-		System.out.print("this is memet");
-		System.out.print("this is memet");
-	}
-
-	public static void test11() {
+		System.out.println("This is my second line of code.");
 
 	}
-
-	public static void test1() {
-
-		System.out.print("this is memet");
-		System.out.print("this is memet");
-
-		System.out.print("this is memet");
-		System.out.print("this is memet");
-
-	}
-
+	
+	
 }
