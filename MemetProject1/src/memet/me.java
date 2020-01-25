@@ -22,7 +22,7 @@ public class me {
 		System.out.print("this is memet");
 		System.out.print("this is memet");
 	System.out.print("this is memet");
-	System.out.println("I am " );
+	System.out.println("I am Wrong" );
 }
 
 }
