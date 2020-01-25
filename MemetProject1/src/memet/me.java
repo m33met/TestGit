@@ -8,19 +8,20 @@ public class me {
 		System.out.print("this is memet");
 	}
 
-	public static void test() {
+	public static void test1() {
 		System.out.print("this is memet");
 		System.out.print("this is memet");
+	
+
+	System.out.print("this is memet");
+	System.out.print("this is memet");
+
 	}
 
-	System.out.print("this is memet");System.out.print("this is memet");
-
-
-
-	public static void test() {
+	public static void test2() {
 		System.out.print("this is memet");
 		System.out.print("this is memet");
-	}System.out.print("this is memet");
+	System.out.print("this is memet");
 }
 
-}}
+}
