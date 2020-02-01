@@ -1,4 +1,4 @@
-package src.memet;
+package memet;
 
 public class Dilnur {
 
